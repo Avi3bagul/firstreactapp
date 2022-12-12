@@ -1,0 +1,167 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+/* @import url('../imges/heroimg.jpg'); */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  transition: all 0.3s ease-in-out;
+  font-family: 'Poppins';
+}
+:root{
+  --bg-colr : rgb(255, 183, 0);
+  --text-col: white;
+  --heading-col: orange;
+  --foter-bg: rgb(0, 157, 248);
+  /* --heroimg : url('../imges/heroimg.jpg'); */
+  --bg-light-white: rgb(203, 236, 231);
+}
+.bg-hero{
+  background-image: var(--heroimg);
+}
+.bg-light-white{
+  background-color: var(--bg-light-white);
+}
+.map{
+  width: 100%;
+}
+.small-border{
+  height: 2px;
+  width: 150px;
+  background: #ccc;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+ background-color: var(--bg-colr);
+}
+body{
+  background-color: var(--bg-h-col);
+}
+.colr-white{
+  color: var(--text-col);
+}
+.wl-s-2{
+  word-spacing: 0.8rem;
+  /* line-height: 3rem; */
+}
+.colr-lightyellow{
+  color: var(--heading-col);
+}
+.bg-orange{
+  background-color: var(--bg-colr);
+}
+.nav-images{
+  border-radius: 50%;
+}
+.btn-outline-orange{
+  border: 0.5px solid  var(--heading-col);
+  color: var(--heading-col);
+  border-radius: 0.6rem;
+}
+.btn-outline-orange:hover{
+  background-color: var(--heading-col);
+  color: var(--text-col);
+}
+.h-w-100vh{
+  height: 91vh;
+  width: 100%;
+}
+/* .bg-H{
+  background-image: image(H_bg_img);
+} */
+.bg-light-black{
+  background-color: var(--foter-bg);
+}
+.H-img{
+  height: 100%;
+  width: 100%;
+}
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* background-color: var(--hero-col); */
+  z-index: 9999999999999999999;
+  transition: all 5s ease-in-out;
+}
+.btn-orange{
+  background-color: var(--bg-colr);
+  color: white;
+}
+.btn-orange:hover{
+  background-color: white;
+  color: var(--heading-col);
+  border: 1px solid orange;
+}
+
+.colr-blue{
+  color: blue;
+}
+ion-icon{
+  font-size: 4rem;
+  color: rgb(0, 157, 248);
+  font-weight: 100;
+}
+.arrowimg{
+  height: 120%;
+  width: 120%;
+}
+.emploimg{
+  height: 100%;
+  width: 100%;
+}
+footer input:hover {
+  border: 0;
+  outline: 0;
+  color: white;
+}
+footer li a{
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: white;
+}
+.sub-btn{
+  width: min-content;
+}
+.para-fs{
+  font-size: 1.25rem;
+}
+.bgimg{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Scon{
+  position: relative;
+  top: -10%;
+}
+.Scon input:hover, textarea:hover{
+  color: white;
+}
+.text-orange{
+  color: orange;
+}
+@media (max-width: 773px) {
+  .H-img{
+    height: 20rem;
+    width:20rem;
+  }
+  .small-border{
+    width: 100px;
+  }
+  .text-c{
+    text-align: center;
+  }
+}
+@media (max-width: 425px) {
+  .para-fs{
+    font-size: 1rem;
+  }
+  .ion-icon{
+    font-size: 1rem;
+  }
+  .Scon{
+    position: initial;
+    
+  }
+}
