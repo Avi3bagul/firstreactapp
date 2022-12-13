@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/firstreactapp/static/css/main.c770c610.css",
-    "main.js": "/firstreactapp/static/js/main.22566b66.js",
-    "static/js/787.884e199e.chunk.js": "/firstreactapp/static/js/787.884e199e.chunk.js",
-    "static/media/heroimg1.png": "/firstreactapp/static/media/heroimg1.791b5d4a8875205442e9.png",
-    "static/media/whoimg.png": "/firstreactapp/static/media/whoimg.a6e4811544a08dcea3cd.png",
-    "static/media/bgimg2.png": "/firstreactapp/static/media/bgimg2.057326707e348c04fa66.png",
-    "static/media/Opbgimg.png": "/firstreactapp/static/media/Opbgimg.4c907d90c5ec1235ccfb.png",
-    "static/media/nprofite.png": "/firstreactapp/static/media/nprofite.159a0a03a115b9a61730.png",
-    "static/media/orangemanimg1.png": "/firstreactapp/static/media/orangemanimg1.93b270be80b71bbc4264.png",
-    "static/media/forum.jpg": "/firstreactapp/static/media/forum.5ecb8e6f93112a3deb86.jpg",
-    "static/media/arrowimg.jpg": "/firstreactapp/static/media/arrowimg.b3b301def01cca48d0c3.jpg",
-    "static/media/whyimg.jpg": "/firstreactapp/static/media/whyimg.4661e3255ca7234da435.jpg",
-    "static/media/business.jpg": "/firstreactapp/static/media/business.e025e968a7d5cd54bd9c.jpg",
-    "static/media/logo.png": "/firstreactapp/static/media/logo.c91af65e0caa044c3bc5.png",
-    "static/media/teamimg.jpg": "/firstreactapp/static/media/teamimg.a9386f01336ccc727d6f.jpg",
-    "static/media/serviceimg.jpg": "/firstreactapp/static/media/serviceimg.7b734aed782f0f1bb882.jpg",
-    "static/media/emplo1img.jpg": "/firstreactapp/static/media/emplo1img.92b9531b0b058d89ab16.jpg",
-    "static/media/blog.jpg": "/firstreactapp/static/media/blog.f9e8631c49dd98122a9a.jpg",
-    "index.html": "/firstreactapp/index.html",
-    "main.c770c610.css.map": "/firstreactapp/static/css/main.c770c610.css.map",
-    "main.22566b66.js.map": "/firstreactapp/static/js/main.22566b66.js.map",
-    "787.884e199e.chunk.js.map": "/firstreactapp/static/js/787.884e199e.chunk.js.map"
+    "main.css": "/freactapp/static/css/main.c770c610.css",
+    "main.js": "/freactapp/static/js/main.a1b5b7e4.js",
+    "static/js/787.884e199e.chunk.js": "/freactapp/static/js/787.884e199e.chunk.js",
+    "static/media/heroimg1.png": "/freactapp/static/media/heroimg1.791b5d4a8875205442e9.png",
+    "static/media/whoimg.png": "/freactapp/static/media/whoimg.a6e4811544a08dcea3cd.png",
+    "static/media/bgimg2.png": "/freactapp/static/media/bgimg2.057326707e348c04fa66.png",
+    "static/media/Opbgimg.png": "/freactapp/static/media/Opbgimg.4c907d90c5ec1235ccfb.png",
+    "static/media/nprofite.png": "/freactapp/static/media/nprofite.159a0a03a115b9a61730.png",
+    "static/media/orangemanimg1.png": "/freactapp/static/media/orangemanimg1.93b270be80b71bbc4264.png",
+    "static/media/forum.jpg": "/freactapp/static/media/forum.5ecb8e6f93112a3deb86.jpg",
+    "static/media/arrowimg.jpg": "/freactapp/static/media/arrowimg.b3b301def01cca48d0c3.jpg",
+    "static/media/whyimg.jpg": "/freactapp/static/media/whyimg.4661e3255ca7234da435.jpg",
+    "static/media/business.jpg": "/freactapp/static/media/business.e025e968a7d5cd54bd9c.jpg",
+    "static/media/logo.png": "/freactapp/static/media/logo.c91af65e0caa044c3bc5.png",
+    "static/media/teamimg.jpg": "/freactapp/static/media/teamimg.a9386f01336ccc727d6f.jpg",
+    "static/media/serviceimg.jpg": "/freactapp/static/media/serviceimg.7b734aed782f0f1bb882.jpg",
+    "static/media/emplo1img.jpg": "/freactapp/static/media/emplo1img.92b9531b0b058d89ab16.jpg",
+    "static/media/blog.jpg": "/freactapp/static/media/blog.f9e8631c49dd98122a9a.jpg",
+    "index.html": "/freactapp/index.html",
+    "main.c770c610.css.map": "/freactapp/static/css/main.c770c610.css.map",
+    "main.a1b5b7e4.js.map": "/freactapp/static/js/main.a1b5b7e4.js.map",
+    "787.884e199e.chunk.js.map": "/freactapp/static/js/787.884e199e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c770c610.css",
-    "static/js/main.22566b66.js"
+    "static/js/main.a1b5b7e4.js"
   ]
 }
