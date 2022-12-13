@@ -67,7 +67,7 @@ const Services = () => {
                     <div className="S_heading d-flex justify-content-center align-content-center">
                       <div>
                         <h2 className="fw-bold colr-lightyellow text-center">
-                          Build Your Website with No.3
+                          Build Your Website with icode
                         </h2>
                         <span className="small-border"></span>
                       </div>
