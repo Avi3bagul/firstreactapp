@@ -8,7 +8,7 @@ const Hiring = () => {
             <Samecomo 
                 title="We Are"
                 h="Iconic Coders"
-                para="Lets Gets Started with No.3"
+                para="Lets Gets Started with icode"
                 btn="Contact"
                 img={orangemanimg}
                 go="/contact"
